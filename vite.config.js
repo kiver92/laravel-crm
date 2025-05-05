@@ -1,0 +1,1 @@
+// mock file: vite.config.js

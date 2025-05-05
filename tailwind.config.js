@@ -1,0 +1,1 @@
+// mock file: tailwind.config.js
